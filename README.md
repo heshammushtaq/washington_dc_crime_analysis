@@ -16,7 +16,7 @@ This project explores publicly available Washington DC crime data (2009–2025) 
 Visualization 1: Crime Trends by Year and Offense Type
 A stacked bar chart showing total crime incidents per year (2009–2025), segmented by offense types.
 
-Insights
+Key Insights:
 1. Crime incidents rose steadily from 2009–2014, peaking around 2016.
 2. From 2017–2019, crime levels stabilized but remained below the peak years.
 3. A sharp decline occurred during 2020–2022, likely influenced by COVID-19 restrictions.
